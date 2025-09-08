@@ -1,8 +1,8 @@
-# Your startup name here
+# Austim support
 
 [My Notes](notes.md)
 
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A brief description of the application here. Autism support is going to be a website that helps educators, parents, and people with autism come to a single place to discuss, ask questions, and discover solutions in relation to the people with autism in their lives.
 
 
 > [!NOTE]
