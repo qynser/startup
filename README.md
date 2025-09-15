@@ -20,7 +20,7 @@ The Uintah Storytelling festival just broke off from the Uintah School District 
 
 ### Design
 
-![Badly drawn image of a website landing page](Rough Drawing.jpg)
+![Badly drawn image of a website landing page](RoughDrawing.jpg)
 
 
 ### Key features
