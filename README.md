@@ -8,11 +8,11 @@ The Uintah Storytelling Festival doesn't have a webpage and I'm going to make it
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [X] Proper use of Markdown
-- [X] A concise and compelling elevator pitch
-- [X] Description of key features
-- [X] Description of how you will use each technology
-- [X] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] Proper use of Markdown
+- [x] A concise and compelling elevator pitch
+- [x] Description of key features
+- [x] Description of how you will use each technology
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -21,7 +21,6 @@ The Uintah Storytelling festival just broke off from the Uintah School District 
 ### Design
 
 ![Badly drawn image of a website landing page](RoughDrawing.jpg)
-
 
 ### Key features
 
@@ -48,21 +47,21 @@ I am going to use the required technologies in the following ways.
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Server deployed and accessible with custom domain name** - [My server link](https://yourdomainnamehere.click).
+- [x] **Server deployed and accessible with custom domain name** - [My server link](https://jashubyoung.com.click).
 
 ## 🚀 HTML deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I created multiple HTML pages that all link to each other.
+- [x] **Proper HTML element usage** - I have lots of fun HTML elements!
+- [x] **Links** - I have proper links to all pages, and to my github repository.
+- [x] **Text** - I put most of the text I need in, though it is pretty rough.
+- [x] **3rd party API placeholder** - Technically I have multiple, because of the Youtube videos, but I also have an area for a automatically generated story prompt.
+- [x] **Images** - I am using multiple images.
+- [x] **Login placeholder** - I have a login place holder that currently does not work.
+- [x] **DB data placeholder** - I have a place for users to read through other users' previous chats, along with a place to review their profile.
+- [x] **WebSocket placeholder** - I have a chat area that will autimatically update when another user enters information (chats).
 
 ## 🚀 CSS deliverable
 
@@ -100,7 +99,6 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [ ] **Backend service endpoints** - I did not complete this part of the deliverable.
 - [ ] **Frontend calls service endpoints** - I did not complete this part of the deliverable.
 - [ ] **Supports registration, login, logout, and restricted endpoint** - I did not complete this part of the deliverable.
-
 
 ## 🚀 DB deliverable
 
