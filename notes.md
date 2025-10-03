@@ -30,6 +30,8 @@ I wanted to make sure that I had all the correct pages in order to make the webs
 
 Okay so I think I've got it figured out, it's mostly tossing people back and forth between the pages and making sure I update every page's headings and such. I think I can combine the rules page into a register page(sign up page) and the example story can go into the about page. I found out you can really easily embed Youtube videos though, so that was nice!
 
+Okay, so now I know how to commit to git, attach my html pages to my server, and I played around with Simon. Now all I have to figure out is how to edit my domain home page's html. That's a quesiton for a TA I think.
+
 ## CSS
 
 This took a couple hours to get it how I wanted. It was important to make it responsive and Bootstrap helped with that. It looks great on all kinds of screen sizes.
