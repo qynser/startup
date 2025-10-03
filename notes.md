@@ -28,6 +28,8 @@ I wanted to make sure that I had all the correct pages in order to make the webs
 - search bar for website
 - Example story page
 
+Okay so I think I've got it figured out, it's mostly tossing people back and forth between the pages and making sure I update every page's headings and such. I think I can combine the rules page into a register page(sign up page) and the example story can go into the about page. I found out you can really easily embed Youtube videos though, so that was nice!
+
 ## CSS
 
 This took a couple hours to get it how I wanted. It was important to make it responsive and Bootstrap helped with that. It looks great on all kinds of screen sizes.
